@@ -1,0 +1,22 @@
+# Seeded accounts (username email password role)
+CREATED otf admin@otf.com cows12 admin
+CREATED sales1 sales1@concert.com z3Cl88 scanner
+CREATED sales2 sales2@concert.com WkVSRn scanner
+CREATED sales3 sales3@concert.com FGrgKD scanner
+CREATED sales4 sales4@concert.com Isjq1q scanner
+CREATED sales5 sales5@concert.com 6QBtGi scanner
+CREATED sales6 sales6@concert.com 6s9GV1 scanner
+CREATED sales7 sales7@concert.com Bqbrij scanner
+CREATED sales8 sales8@concert.com eczagh scanner
+CREATED sales9 sales9@concert.com ynfR2w scanner
+CREATED sales10 sales10@concert.com 9DEAgZ scanner
+CREATED verify1 verify1@concert.com RW3HY7 scanner
+CREATED verify2 verify2@concert.com C30sUL scanner
+CREATED verify3 verify3@concert.com tpVJ7S scanner
+CREATED verify4 verify4@concert.com Ksryvy scanner
+CREATED verify5 verify5@concert.com plsu2N scanner
+CREATED verify6 verify6@concert.com 5hF80Z scanner
+CREATED verify7 verify7@concert.com oaoBQH scanner
+CREATED verify8 verify8@concert.com YNLhQw scanner
+CREATED verify9 verify9@concert.com u2k149 scanner
+CREATED verify10 verify10@concert.com J0LAtT scanner

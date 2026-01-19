@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy>=2.0
+asyncpg
+pydantic
+pydantic-settings
+python-jose
+bcrypt
+passlib
+qrcode
+python-multipart
+python-dotenv
