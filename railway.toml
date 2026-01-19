@@ -6,3 +6,7 @@ startCommand = ""
 restartPolicyMaxRetries = 5
 restartPolicyWindowSeconds = 600
 healthchecks = { disable = false }
+
+[domains]
+http = true
+https = true
